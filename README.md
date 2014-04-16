@@ -1,2 +1,3 @@
-Week 4 Test (Rubyist)
+Week 4 Test
 ---
+We were tasked to develop a Takeaway system using Ruby and TDD. I had a problem where I had included my keys in my code, when I extracted it to a YAML file and aiming to rebase, I accidently deleted the git history, therefore there is only one big commit. However, we used TDD and Ruby including the Twilio API to develop an ordering system that texts the user when an order is placed. Also uses stubbing to ensure texts aren't sent whilst testing.
