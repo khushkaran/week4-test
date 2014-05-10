@@ -14,7 +14,7 @@ Twilio API send a text message to the customer.
 * Object-oriented-programming
 * Test-driven-development with RSpec
 * Twilio API
-* RSpec Stubs/Doubles
+* RSpec Stubs and Doubles
 
 ### Instructions
 To run the re-implementation of the inject method, run `irb`:
